@@ -5,7 +5,7 @@
 |[![License](https://img.shields.io/github/license/fatalerrorx/FastTextCat.svg)](https://github.com/fatalerrorx/FastTextCat/blob/master/license.MIT)|
 
 ## Why FastTextCat?
-- *FastTextCat* is a fork of NTextCat that has had a complete rewrite. Why? To make it faster and more accurate. The result is a 15x speed up over the original and better recognition accuracy.
+- *FastTextCat* is a fork of NTextCat that has had a complete rewrite. Why? To make it faster and more accurate. The result is a 15x speed up over the original, better recognition accuracy and cleaner code.
 - *FastTextCat* helps to recognize (identify) the language of a given text (e.g. read a sentence and say it is *Italian*).
 
 ## How to use
