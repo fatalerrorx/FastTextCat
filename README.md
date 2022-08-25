@@ -21,5 +21,5 @@ var result = identifier.Identify("your text to get its language identified");
 ClassificationResult<LanguageInfo> classificationResult = result.First();
 Console.WriteLine("The language of the text is '{0}' (ISO639-2 code)", classificationResult.Category.Iso639_2T);
 
-// outputs: The language of the text is 'eng' (ISO639-3 code)
+// outputs: The language of the text is 'eng' (ISO639-2 code)
 ```
